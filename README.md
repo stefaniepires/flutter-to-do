@@ -1,4 +1,4 @@
-# Taskmaster Pro
+# Flutter To Do App
 
 ## Description
 * Users can create add items
@@ -15,5 +15,5 @@
 ## TestFlight
 [https://stefaniepires.github.io/taskmaster-pro/](https://testflight.apple.com/join/BvwFRvfZ)https://testflight.apple.com/join/BvwFRvfZ
 
-![Screenshot](https://i.imgur.com/sEAgmfE.png)
+![Screenshot](https://i.imgur.com/tZSr2Ew.png)
 
