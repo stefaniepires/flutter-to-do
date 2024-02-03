@@ -12,8 +12,8 @@
 * Hive 
 
 
-## TestFlight
-[https://stefaniepires.github.io/taskmaster-pro/](https://testflight.apple.com/join/BvwFRvfZ)https://testflight.apple.com/join/BvwFRvfZ
+## TestFlight - Join the Beta
+(https://testflight.apple.com/join/BvwFRvfZ)https://testflight.apple.com/join/BvwFRvfZ
 
 ![Screenshot](https://i.imgur.com/tZSr2Ew.png)
 
